@@ -9,3 +9,5 @@ http://iregistration.bisefsd.edu.pk/Account/Login.aspx
 In the Code, the default link is currently set for the registration of 9th Class students. 
 If you are using it to register 11th Class students, you need to change the Link. 
 At Line no. 27 and 29, you need to enter the username and password provided to your institute by Faisalabad Board. 
+
+Special Thanks to Mahboob Alam sb (Biology Teacher in my School) to give me the idea and also pushing me to work on the Code. 
