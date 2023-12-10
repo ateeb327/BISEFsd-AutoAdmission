@@ -8,6 +8,8 @@ http://registration.bisefsd.edu.pk/Account/Login.aspx
 Link for the registered institute to login for 11th Class: 
 http://iregistration.bisefsd.edu.pk/Account/Login.aspx
 
+>View the Video here to get DEMO and usage instructions: https://drive.google.com/file/d/1VXqxqJplL7Ut49teDoUzyy_ObOO-RfN7/view?usp=sharing
+
 **Before Running The Code:**
 - Download and Install Python from https://www.python.org/downloads/
 - After installing python, open command prompt and install the Selenium and Openpyxl modules by running following commands one by one:
